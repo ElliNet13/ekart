@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "ellinet13-mario-kart-37"
-          entrypoint: "index.js"
+          entrypoint: "index.html"
           root: ""
