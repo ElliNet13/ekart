@@ -1,8 +1,8 @@
 # Mario Kart 3.js - JavaScript/WebGL Mario Kart
 
-[Link](https://mario-kart-3-js.vercel.app/)
+[Link]([https://mario-kart-3-js.vercel.app/](https://ekart-psi.vercel.app/))
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Lunakepio/Mario-Kart-3.js)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ElliNet13/ekart)
 
 DISCLAIMER : This is not a completed project, I would say around 50% of the work has been done up to now. It takes a lot of time so please enjoy.
 
@@ -53,41 +53,6 @@ Start the dev server
 - Iterate on individual components, set props, have some fun
 
 - [Learn more about Triplex](https://triplex.dev/docs/get-started/user-interface)
-
-## TO - DO
-
-- [ ] Design Landing page
-
-- [ ] Add items
-
-- [ ] Add texture to the flame shaders
-
-- [ ] Add curve/length modifiers to drift particles 3/4
-
-- [ ] Add Skid marks
-
-- [x] Add smokes
-
-- [ ] Add wind screen effect when boosting
-
-- [ ] Improve sound design quality
-
-- [ ] Design UI for HUD
-
-- [ ] Make Time Trial mode
-
-- [ ] Design tracks and checkpoints
-
-- [ ] Improve code quality
-
-- [ ] Add Minimap
-
-- [ ] Items
-  - [ ] Tennis ball
-  - [ ] Bomb
-  - [ ] Real red shell
-  - [ ] Treats
-  - [ ] ?
 
 ## License
 
