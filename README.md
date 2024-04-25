@@ -32,4 +32,4 @@
 
 ## License
 
-[![License: MIT]([https://img.shields.io/badge/License-MIT-yellow.svg](https://img.shields.io/badge/License-MITs%20are%20yummy%20:)-yellow.svg))](https://opensource.org/licenses/MIT)
+[![License: MIT]([https://img.shields.io/badge/License-MIT-yellow.svg](https://img.shields.io/badge/License-MITs%20are%20yummy%20:)-yellow.svg)))](https://opensource.org/licenses/MIT)
