@@ -6,7 +6,7 @@ import { Environment, KeyboardControls, Loader, OrbitControls, Preload, Stats } 
 import { insertCoin, onPlayerJoin } from 'playroomkit'
 import { useStore } from "./components/store";
 import * as THREE from "three";
-import { ParisBis } from './components/models/tracks/Paris-bis'
+import { Analytics } from "@vercel/analytics/react"
 
 export const Controls = {
   up: 'up',
@@ -58,6 +58,7 @@ function App() {
 
   return (
     <>
+    <Analytics />
     <Loader />
     <Canvas
       // shadows
