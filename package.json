@@ -22,7 +22,7 @@
     "react-joystick-component": "^6.2.1",
     "three": "^0.160.1",
     "three-mesh-bvh": "^0.7.3",
-    "zustand": "^4.5.0"
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
