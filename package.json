@@ -16,7 +16,7 @@
     "@vercel/analytics": "^1.5.0",
     "gsap": "^3.12.5",
     "leva": "^0.9.35",
-    "playroomkit": "^0.0.72",
+    "playroomkit": "^0.0.86",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-gamepad": "^1.0.3",
